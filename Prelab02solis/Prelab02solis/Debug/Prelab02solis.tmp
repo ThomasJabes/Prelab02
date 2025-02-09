@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\thoma\OneDrive\Desktop\Micros2025\Prelab02solis21626\Prelab02solis\Prelab02solis\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Prelab02solis21626\Prelab02solis\Prelab02solis\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Prelab02solis21626\Prelab02solis\Prelab02solis\Debug\Prelab02solis.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Prelab02solis.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Prelab02solis.map</FILE>
+  <FILE>Prelab02solis.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Prelab02solis21626\Prelab02solis\Prelab02solis\main.asm</FILE><LINE>21</LINE></SETUP>
+  <INIT_TMR0><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Prelab02solis21626\Prelab02solis\Prelab02solis\main.asm</FILE><LINE>56</LINE></INIT_TMR0>
+  <MAIN_LOOP><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\Prelab02solis21626\Prelab02solis\Prelab02solis\main.asm</FILE><LINE>36</LINE></MAIN_LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
